@@ -83,10 +83,10 @@ print(classification_rep)
 
 <H3>Output:</H3>
 
-#### Error Convergence:
+### Error Convergence:
 ![alt text](error_conv.png)
 
-#### Classification Metrics:
+### Classification Metrics:
 ![alt text](Class_metrics.png)
 
 <H3>Results:</H3>
