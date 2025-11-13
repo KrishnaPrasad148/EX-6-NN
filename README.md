@@ -28,6 +28,7 @@ Register No. : 212223230108
 
 ```py
 
+
 import numpy as np
 import pandas as pd
 from sklearn.neural_network import MLPClassifier
@@ -78,6 +79,7 @@ print(conf_matrix)
 
 print("\nClassification Report:")
 print(classification_rep)
+
 
 ```
 
